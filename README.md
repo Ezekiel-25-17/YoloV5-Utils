@@ -17,11 +17,11 @@
 - Custom evaluation functions (*evaluation_functions.py*)
 
 ## Function Scripts:
-- *preprocessing_functions.py*: functions used during the preprocessing
-- *merging_functions.py*: functions used to manage files and folders
-- *evaluation_functions.py*: custom functions to evaluate results
+- *preprocessing_functions.py:* functions used during the preprocessing
+- *merging_functions.py:* functions used to manage files and folders
+- *evaluation_functions.py:* custom functions to evaluate results
 
 ## Other Utility Scripts:
-- *check_size.py*: compute size of target directories
-- *delete_runs.py*: clean up past runs of yolo
-- *update_dataset.py*: update an already created inference/test set with new images
+- *check_size.py:* compute size of target directories
+- *delete_runs.py:* clean up past runs of yolo
+- *update_dataset.py:* update an already created inference/test set with new images
