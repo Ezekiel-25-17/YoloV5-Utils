@@ -2,7 +2,8 @@ from fileinput import filename
 import os 
 import shutil
 
-path = 'yolov5/runs/detect'
+path = 'yolov5/runs/val'
+# path = 'yolov5/runs/detect'
 # path = 'yolov5/images_inference'
 to_delete = []
 
